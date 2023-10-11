@@ -1,0 +1,15 @@
+  tr,
+      th,
+        td {
+        color: rgb(131, 143, 28);
+        background-color: rgb(255, 255, 255);
+      }
+  body { 
+    background-color: aqua;
+  }
+  
+  p {
+    color: darkblue;
+  }
+  
+  
