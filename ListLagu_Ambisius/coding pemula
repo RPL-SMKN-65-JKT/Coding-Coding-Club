@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h3>belajar aku masih pemula</h3>
+    <p>biodata:</p>
+    <form>
+      <label for="Nama">nama</label>
+      <input type="text" />
+      <br />
+      <label for="kelas">kelas</label>
+      <input type="radio" /> X PPLG 1 <input type="radio" /> X PPLG 2
+      <br />
+      <label for="tanggal">tanggal</label>
+      <select name="tanggal"
+         <option value=" 17/10/2023">17/10/2023</option> 
+         <option value=" 17/10/2023">17/10/2023</option> 
+         <option value=" 18/10/2023">18/10/2023</option> 
+         <option value=" 19/10/2023">19/10/2023</option> 
+        
+        </select>
+      <label for="gender">jenis kelamin</label>
+      <input type="checkbox" /> laki-laki <input type="checkbox" /> Wanita
+      <br />
+      <input type="button" /> submit
+      <br> 
+      <label for="deskripsi"deskripsi diri></label>
+      <br>
+      <textarea>
+      </textarea>
+      <br>
+      <input type="submit">
+      <input type="reset">
+      <a href="www.youtube.com" inputmode="button">
+       <button>klik disini ya teman-teman</button>
+      </a>
+    </form>
+  </body>
+</html>
